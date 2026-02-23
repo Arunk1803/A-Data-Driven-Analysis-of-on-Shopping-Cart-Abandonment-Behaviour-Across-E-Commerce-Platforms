@@ -1,0 +1,36 @@
+age_group  ,shopping_frequency,platform,cart_abandoned,abandonment_frequency,primary_abandonment_reason,extra_charges_impact,payment_issue,discount_influence,preferred_discount_range,checkout_improvement_impact,satisfaction_score
+18–24,Rarely,Myntra,Yes,Very often,Just browsing / not ready to buy,Yes,No,Yes,10–20%,Yes,4
+25–34,2–3 times a month,Meesho,Yes,Sometimes,Trust or security concerns,No,No,Yes,Above 30%,Yes,4
+25–34,2–3 times a month,Meesho,Yes,Very often,Just browsing / not ready to buy,Yes,No,Yes,Above 30%,No,4
+18–24,Once a month,Flipkart,Yes,Very often,High delivery charges,Yes,No,Yes,Above 30%,Yes,3
+18–24,Once a month,Meesho,Yes,Very often,Just browsing / not ready to buy,No,No,Yes,Above 30%,Yes,1
+18–24,2–3 times a month,Flipkart,Yes,Sometimes,Product price too high,Yes,No,Yes,Above 30%,Yes,2
+Below 18,2–3 times a month,Meesho,Yes,Sometimes,Just browsing / not ready to buy,No,No,Yes,Above 30%,Yes,4
+18–24,Once a month,Meesho,No,Rarely,Long delivery time,Yes,No,Yes,10–20%,Yes,3
+18–24,Once a month,Amazon,Yes,Sometimes,Product price too high,Yes,No,Yes,10–20%,Yes,4
+25–34,2–3 times a month,Myntra,No,Very often,Long delivery time,No,Yes,Maybe,21–30%,Yes,3
+18–24,2–3 times a month,Meesho,Yes,Rarely,Just browsing / not ready to buy,Yes,No,Yes,Above 30%,Yes,4
+35–44,Weekly,Flipkart,No,Rarely,High delivery charges,Yes,No,Yes,Above 30%,Yes,3
+Below 18,Rarely,Meesho,Yes,Sometimes,Just browsing / not ready to buy,No,No,Maybe,Above 30%,No,5
+35–44,Rarely,Amazon,Yes,Very often,Trust or security concerns,Yes,No,Yes,Above 30%,Yes,3
+25–34,2–3 times a month,Ajio,Yes,Sometimes,Product price too high,Yes,No,Yes,10–20%,Yes,5
+45+,Rarely,Flipkart,No,Rarely,Long delivery time,Yes,Yes,No,Below 10%,No,3
+18–24,Once a month,Meesho,Yes,Sometimes,Just browsing / not ready to buy,No,No,Yes,10–20%,Yes,4
+18–24,Weekly,Ajio,No,Sometimes,Long delivery time,Yes,Yes,Maybe,21–30%,No,3
+35–44,Once a month,Myntra,Yes,Very often,Just browsing / not ready to buy,No,Yes,Maybe,Above 30%,No,2
+35–44,Rarely,Amazon,No,Rarely,Trust or security concerns,No,No,Yes,10–20%,Yes,4
+18–24,2–3 times a month,Amazon,Yes,Sometimes,Just browsing / not ready to buy,Yes,No,Yes,10–20%,No,4
+18–24,Rarely,Flipkart,Yes,Rarely,Trust or security concerns,Yes,No,Yes,21–30%,Yes,4
+18–24,Rarely,Meesho,No,Rarely,Trust or security concerns,Yes,No,Yes,10–20%,No,5
+18–24,Once a month,Myntra,Yes,Sometimes,Product price too high,Yes,No,Yes,10–20%,Yes,5
+18–24,2–3 times a month,Ajio,Yes,Very often,Just browsing / not ready to buy,Yes,No,Yes,Above 30%,Yes,4
+18–24,2–3 times a month,Amazon,Yes,Rarely,Just browsing / not ready to buy,Yes,No,Maybe,10–20%,Yes,4
+18–24,2–3 times a month,Meesho,No,Sometimes,Product price too high,Yes,No,Yes,Above 30%,Yes,3
+25–34,Weekly,Flipkart,No,Very often,High delivery charges,Yes,No,Yes,21–30%,Yes,3
+Below 18,Rarely,Amazon,Yes,Sometimes,Just browsing / not ready to buy,Yes,No,Maybe,21–30%,No,2
+18–24,2–3 times a month,Flipkart,No,Sometimes,Product price too high,Yes,No,Maybe,Above 30%,Yes,3
+45+,Once a month,Ajio,No,Sometimes,Trust or security concerns,No,Yes,Maybe,Above 30%,Yes,2
+25–34,Weekly,Amazon,Yes,Rarely,Product price too high,Yes,No,Yes,21–30%,Yes,5
+Below 18,Once a month,Myntra,No,Rarely,Long delivery time,Yes,No,Maybe,10–20%,No,4
+25–34,2–3 times a month,Flipkart,No,Sometimes,Just browsing / not ready to buy,Yes,Yes,Maybe,10–20%,Yes,3
+18–24,Once a month,Flipkart,Yes,Sometimes,Payment failure,Yes,Yes,Yes,21–30%,Yes,3
