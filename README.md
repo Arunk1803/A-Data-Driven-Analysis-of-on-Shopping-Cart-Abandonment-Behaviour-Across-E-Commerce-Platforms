@@ -1,4 +1,4 @@
-# A-Data-Driven-Analysis-of-on-Shopping-Cart-Abandonment-Behaviour-Across-E-Commerce-Platforms
+# A-Data-Driven-Analysis-of-on-Shopping-Cart-Abandonment-Behaviour-Across-E-Commerce-Platforms EXCEL| SQL | POWER BI
 ## 🛒 **PROJECT OVERVIEW**
 
 * This project focuses on analyzing online shopping cart abandonment behavior across multiple e-commerce platforms.
